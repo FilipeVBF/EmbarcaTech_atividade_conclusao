@@ -64,5 +64,5 @@ O sistema é baseado em um modelo de camadas, com os seguintes principais blocos
   - SCL: Pino 15
 
 ## Vídeo da Solução
-Segue abaixo o link do vídeo da demonstração do projeto:
+Segue abaixo o link do vídeo de apresentação do projeto:
 [Ver vídeo](https://drive.google.com/file/d/1PQ610m6bIcYRiQXdW3t7iAfxOyUw7oth/view?usp=sharing).
